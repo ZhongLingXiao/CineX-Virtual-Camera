@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "CineX Plug-in",
+	"Description": "Receive camera or motion capture data from remote device.",
+	"Category": "T.N.T Film Production",
+	"CreatedBy": "T.N.T Film Production Ltd.",
+	"CreatedByURL": "http://www.tcxforever.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CineX",
+			"Type" : "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

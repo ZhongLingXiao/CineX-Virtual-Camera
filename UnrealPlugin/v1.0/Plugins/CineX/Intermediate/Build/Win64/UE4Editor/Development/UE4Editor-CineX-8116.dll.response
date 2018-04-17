@@ -1,0 +1,84 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"F:\FxxkingPerfect\NetworkXPlugin\Plugins\ThirdParty\CineXSDK\bin\libzmq-v140-mt-4_2_1.dll"
+/DELAYLOAD:"F:\FxxkingPerfect\NetworkXPlugin\Plugins\ThirdParty\CineXSDK\bin\libsodium.dll"
+/DELAYLOAD:"F:\FxxkingPerfect\NetworkXPlugin\Plugins\ThirdParty\CineXSDK\bin\jpeg8.dll"
+/DELAYLOAD:"d3d12.dll"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"F:\FxxkingPerfect\NetworkXPlugin\Plugins\CineX\Intermediate\Build\Win64\UE4Editor\Development\CineX\Module.CineX.cpp.obj"
+"F:\FxxkingPerfect\NetworkXPlugin\Plugins\CineX\Intermediate\Build\Win64\UE4Editor\Development\CineX\Module.CineX.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\CineX\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"F:\FxxkingPerfect\NetworkXPlugin\Plugins\ThirdParty\CineXSDK\lib\libzmq-v140-mt-4_2_1.lib"
+"F:\FxxkingPerfect\NetworkXPlugin\Plugins\ThirdParty\CineXSDK\lib\jpeg.lib"
+"F:\FxxkingPerfect\NetworkXPlugin\Plugins\ThirdParty\CineXSDK\lib\nvapi64.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RenderCore.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-UnrealEd.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PropertyEditor.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LevelEditor.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CinematicCamera.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RHI.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-UMG.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Projects.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Slate.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SlateCore.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Networking.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Sockets.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SequenceRecorder.lib"
+/OUT:"F:\FxxkingPerfect\NetworkXPlugin\Plugins\CineX\Binaries\Win64\UE4Editor-CineX-8116.dll"
+/IMPLIB:"F:\FxxkingPerfect\NetworkXPlugin\Plugins\CineX\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CineX-8116.suppressed.lib"
+/PDB:"F:\FxxkingPerfect\NetworkXPlugin\Plugins\CineX\Binaries\Win64\UE4Editor-CineX-8116.pdb"
+/ignore:4078
