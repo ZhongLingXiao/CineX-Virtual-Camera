@@ -1,6 +1,5 @@
 # CineX-virtual-camera
 **基于unreal4游戏引擎和ios的虚拟摄影机**
-- `知乎专栏《Previs-电影预演技术》` https://zhuanlan.zhihu.com/c_178765354
 - `Open source liscense: Apache License 2.0`
 ## 1. ipad的虚拟摄影机
 `硬件需求`
